@@ -1,3 +1,7 @@
 *.mp4 filter=lfs diff=lfs merge=lfs -text
 *.mkv filter=lfs diff=lfs merge=lfs -text
+<<<<<<< HEAD
 *.mp3 filter=lfs diff=lfs merge=lfs -text
+=======
+*.mp3 filter=lfs diff=lfs merge=lfs -text
+>>>>>>> be4dbf7848fb4871497bf5902f0146769416c925
